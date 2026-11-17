@@ -4,5 +4,6 @@
 ### My Recent Projects
 * [**BilFit**](https://github.com/Deja-Vu1/BilFit) - I collaborated with a team to build this application about finding users to play sports games together and reserve sport halls. My main focus was developing the frontend and designing the functions of the app.
 * [**supplier-management**](https://github.com/goktanarslan/supplier-management) - I created a demo that includes a register and supplier approve portal, with modern security standarts and AI application reviewing.
+* [**GTA1_Turkce_Ceviri**](https://github.com/goktanarslan/GTA1_Turkce_Ceviri) - I unofficially translated Grand Theft Auto 1 to Turkish and added special characters to the font.
 
 
